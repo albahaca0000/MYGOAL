@@ -5,7 +5,7 @@
 | 2  | Allowance Wallet                                          | Beginner     | ✅ Done | [Repo](https://github.com/albahaca0000/allowance-wallet)         | [Sepolia](https://sepolia.etherscan.io/address/0x5d91cab4ba288f45d6ce3c8aad7e23bf1bfef419) |
 | 3  | Basic Voting                                              | Beginner     | ✅ Done | [Repo](https://github.com/albahaca0000/Choose-Your-President)         | [Sepolia](https://sepolia.etherscan.io/address/0x814ecec3247c020fae59bbfe7538114d63e71bcb) |
 | 4  | Simple Auction                                            | Beginner     | ✅ Done | [Repo](https://github.com/albahaca0000/Simple-Auction)         | [Sepolia](https://sepolia.etherscan.io/address/0x084fe7c4e5edd012fa52895a76a35f4628fb6ba1) |
-| 5  | Escrow Contract                                           | Beginner     | ⏳ Pending | [Repo](...)      | (...)                                                      |
+| 5  | Escrow Contract                                           | Beginner     | ⏳ Pending | [Repo](https://github.com/albahaca0000/escrow-contract)      | [Sepolia](https://sepolia.etherscan.io/address/0x7bea5206c9632655b2c048dfc01a2fc08c7b2182#code)                                                      |
 | 6  | Lottery Contract                                          | Beginner     | ⏳ Pending | [Repo](...)      | (...)                                                      |
 | 7  | Timelock Contract                                         | Beginner     | ⏳ Pending | [Repo](...)      | (...)                                                      |
 | 8  | Upgradable Proxy + Logic Contract                         | Beginner     | ⏳ Pending | [Repo](...)      | (...)                                                      |
